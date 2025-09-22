@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-npm install --save @swyx/hooks
+npm install --save @edgarcltop/hooks
 ```
 
 ## Usage
