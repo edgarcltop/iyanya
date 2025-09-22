@@ -1,6 +1,5 @@
 # hooks
 
-> swyx's personal hooks library
 
 [![NPM](https://img.shields.io/npm/v/hooks.svg)](https://www.npmjs.com/package/hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -75,6 +74,3 @@ export default function Menu(props) {
 
 bootstrapped with Travis Fischer's wonderful https://www.npmjs.com/package/create-react-library
 
-## License
-
-MIT © [sw-yx](https://github.com/sw-yx)
