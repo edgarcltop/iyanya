@@ -69,7 +69,3 @@ export default function Menu(props) {
 - useLoading: https://www.youtube.com/watch?v=gAr2Qqoa00c
 - useKeyDown: https://twitter.com/swyx/status/1058927958205681664
 
-## Acknowledgements
-
-bootstrapped with Travis Fischer's wonderful https://www.npmjs.com/package/create-react-library
-
