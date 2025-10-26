@@ -63,9 +63,3 @@ export default function Menu(props) {
   // ...
 }
 ```
-
-## Video Docs:
-
-- useLoading: https://www.youtube.com/watch?v=gAr2Qqoa00c
-- useKeyDown: https://twitter.com/swyx/status/1058927958205681664
-
