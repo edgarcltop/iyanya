@@ -1,8 +1,5 @@
 # Iyanya
-
-[![NPM](https://img.shields.io/npm/v/hooks.svg)](https://www.npmjs.com/package/hooks) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
-
+The application is for the usage and management for these cooperatives on the application.
 ## Usage
 
 ```tsx
